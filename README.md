@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ### My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ae,py,docker,c,vim" />
   </a>
 
