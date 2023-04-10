@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoiorio&show_icons=true&theme=dracula)
 ### My Trophies🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
