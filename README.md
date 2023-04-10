@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### My Trophies🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Skills
+### My Skills🔫
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,py,swift" />
