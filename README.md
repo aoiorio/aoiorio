@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### My Activity 🫠
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoiorio&theme=zenburn)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoiorio&show_icons=true&theme=Gradient)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoiorio&theme=dracula)
