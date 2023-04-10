@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Skills🔫
-After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
+
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,py,swift" />
 </a>
-
+After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
 
