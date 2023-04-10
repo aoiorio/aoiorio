@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoiorio&theme=dracula
+[![github-chart](https://github-chart.vercel.app/api?user=aoiorio)](https://github.com/rokumura7/github-chart)
