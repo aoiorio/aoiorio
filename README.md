@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiorio&show_icons=true&theme=tokyonight)
-[![Aoi GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoiorio&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
