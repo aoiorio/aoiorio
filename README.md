@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,py,swift" />
 </a>
-After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
+<br>After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
 
