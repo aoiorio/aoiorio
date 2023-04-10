@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoiorio&show_icons=true&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aoiorio&theme=zenburn)
+
 ### My Trophies🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -34,5 +37,8 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ae,py,swift" />
 </a>
-<br>After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
+
+- After Effects > about 2 years
+- Python > about 2 months
+- Swift > about 6 months
 
