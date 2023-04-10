@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
-### My Activity 🫠
+### My Activities 🫠
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoiorio&theme=zenburn)
 
 
