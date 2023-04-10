@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiorio&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoiorio&show_icons=true&theme=tokyonight)
