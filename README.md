@@ -1,5 +1,8 @@
 ### Hi 🍳
 I'm Aoi Orio.
+I'm 15 years old.
+I'm a first grade of Vantan Techford Academy student.
+Thank you for reading them.
 
 <!--
 **aoiorio/aoiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,6 @@ Here are some ideas to get you started:
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
-
 ### My Activity 🫠
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoiorio&theme=zenburn)
 
@@ -27,4 +29,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
