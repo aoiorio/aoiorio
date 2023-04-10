@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aoiorio&theme=zenburn)
 
-### My Trophies🏆
+### My Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Skills🔫
+### My Skills 🔫
 
 
 <a href="https://skillicons.dev">
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - Python > about 2 months
 - Swift > about 6 months
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
