@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)
-[![github-chart](https://github-chart.vercel.app/api?user=aoiorio)](https://github.com/rokumura7/github-chart)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiorio&show_icons=true&theme=tokyonight)
 
