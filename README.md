@@ -1,8 +1,8 @@
 ### Hi 🍳
 I'm Aoi Orio.
-I'm 15 years old.
-I'm a first grade of Vantan Techford Academy student.
-Thank you for reading them.
+- 15 years old.
+- First grade of Vantan Techford Academy student.
+- I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
 
 <!--
 **aoiorio/aoiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 ### My Trophies🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Little Skills🔫
+### My Skills🔫
+After Effects > about 2 years<br>Python > about 2 months<br>Swift > about 6 months
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,py,swift" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ae,py,swift" />
+</a>
+
 
