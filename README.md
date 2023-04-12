@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=ae,py,swift" />
 </a>
 
+
 - After Effects > about 2 years
 - Python > about 2 months
 - Swift > about 6 months
