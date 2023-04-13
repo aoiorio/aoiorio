@@ -1,6 +1,6 @@
 ### Hi 🍳
 I'm Aoi Orio.
-- 15 years old.
+- I'm 15 years old.
 - First grade of Vantan Techford Academy student.
 - I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
 - I like eating.
