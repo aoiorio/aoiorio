@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 - After Effects > about 2 years
-- Python > about 2 months
+- Python > about 3 months
 - Swift > about 6 months
 
 ### My Streak Stats 🦄
