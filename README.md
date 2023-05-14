@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🫥 Favorite singer is Justin bieber and Lis Nas X....
 - What are you doing now!!
 - Do you know how can I eat this pancake and banana pound cake.
-- I involuntarily make chocolate canelé
+- I involuntarily make chocolate canelé.
+- I think 
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
