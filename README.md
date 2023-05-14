@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - What are you doing now!!
 - Do you know how can I eat this pancake and banana pound cake.
 - I involuntarily make chocolate canelé.
-- I think you are great friend and 
+- I think you are great friend and a cat
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
