@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - I think you are great friend and a nice cat.
 - What's your favorite sweets?
 - What is your name?
+- 
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
