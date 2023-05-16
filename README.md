@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I involuntarily make chocolate canelé.
 - I think you are great friend and a nice cat.
 - What's your favorite sweets?
-- I like to 
+- I like to a
 - What is your name?
 - ⚡ Fun fact: power...
 -->
