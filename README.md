@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - What's your favorite sweets?
 - What is your name?
 - I'm just playing volleyball!!
+
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
