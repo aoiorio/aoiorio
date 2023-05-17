@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I just talking about yogurt...
 - 😄 Pronoun: please call me Aoi and my English name is Atom....
 - 🫥 Favorite singer is Justin bieber and Lis Nas X....
-- What are you doing now!!
-- Do you know how can I eat this pancake and banana pound cake.
-- I involuntarily make chocolate canelé.
-- I think you are great friend and a nice cat.
-- What's your favorite sweets?
-- I like to a
-- What is your name?
-- I'm just playing volleyball!!
+
 
 - ⚡ Fun fact: power...
 -->
