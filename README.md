@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🫥 Favorite singer is Justin bieber and Lis Nas X....
 - 🍔 I like to eat sandwiches for lunch.
 - 🌈 I'm so hungry.
-- 🍩
-- 🥟 
+- 🍩 My favorite food is 🍿
 
 - ⚡ Fun fact: power...
 -->
