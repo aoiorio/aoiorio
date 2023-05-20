@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 - 🫥 Favorite singer is Justin bieber and Lis Nas X....
 - 🍔 I like to eat sandwiches for lunch.
 - 🌈 I'm so hungry.
+
 - 🍩
+
+- 🥟 
+
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
