@@ -42,13 +42,14 @@ Here are some ideas to get you started:
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ae,py,swift" />
+  <img src="https://skillicons.dev/icons?i=ae,py,swift,dart" />
 </a>
 
 
 - After Effects > about 2 years
 - Python > about 3 months
 - Swift > about 6 months
+- Dart > about 1 month
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
