@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌈 I'm so hungry.
 - 🥪 I like to eat bread crusts.
 - 🍩 My favorite food is 🍿, 🍞, 🍠, 🥞, 🍕, 🍫, 🍎, 🍬, 🧋, 🍣, 🥟
-- 🤩 I ca
+- 🤩 I can
 
 
 - ⚡ Fun fact: power...
