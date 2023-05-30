@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🥪 I like to eat bread crusts.
 - 🍩 My favorite food is 🍿, 🍞, 🍠, 🥞, 🍕, 🍫, 🍎, 🍬, 🧋, 🍣, 🥟
 - 🤩 I can do 🎬, 🏐, 🏓, 🏸, 🏊, 🏖️
-- 🍭 I w
+- 🍭 I wa
 
 - ⚡ Fun fact: power...
 -->
