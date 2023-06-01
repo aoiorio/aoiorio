@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🍩 My favorite food is 🍿, 🍞, 🍠, 🥞, 🍕, 🍫, 🍎, 🍬, 🧋, 🍣, 🥟
 - 🤩 I can do 🎬, 🏐, 🏓, 🏸, 🏊, 🏖️
 - 🍭 I want to 🏹, 💘, 🃏, 🏀, 🧩, 🎧, 💻, ☂️, 🐷, 🍞
-- 🍕 I
+- 🍕 I 
 
 - ⚡ Fun fact: power...
 -->
