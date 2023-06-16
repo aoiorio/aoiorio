@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🍕 I like 🍠, 🍿, 🍣, 🏐, 🎬, ✈️, 💻, 💰, ✏️, 🎂, 🥪, 🍙, ☕️, 🏓, 🎧, 🧩, 🏸, 🏖️, 🛏️, ❤️, 🃏, 🇺🇸, ●, 🧇
 - 🧋 I don't like 🦠, 🗯️, 🤬, 🥶, 🤮, 😵‍💫, 🤐, 🤒, 👠, 💉
 
+
 - ⚡ Fun fact: power...
 -->
 <!-- - [![trophy](https://github-profile-trophy.vercel.app/?username=aoiorio=dark)](https://github.com/ryo-ma/github-profile-trophy)  -->
