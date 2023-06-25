@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🍔 I like to eat sandwiches for lunch.
 - 🌈 I'm so hungry.
 - 🥪 I like to eat bread crusts.
-- 🍩 My favorite food is 🍿, 🍞, 🍠, 🥞, 🍕, 🍫, 🍎, 🍬, 🧋, 🍣, 🥟
+- 🍩 My favorite food is 🍿, 🍞, 🍠, 🥞, 🍕, 🍫, 🍎, 🍬, 🧋, 🍣, 🥟 
 - 🤩 I can do 🎬, 🏐, 🏓, 🏸, 🏊, 🏖️
 - 🍭 I want to 🏹, 💘, 🃏, 🏀, 🧩, 🎧, 💻, ☂️, 🐷, 🍞
 - 🍕 I like 🍠, 🍿, 🍣, 🏐, 🎬, ✈️, 💻, 💰, ✏️, 🎂, 🥪, 🍙, ☕️, 🏓, 🎧, 🧩, 🏸, 🏖️, 🛏️, ❤️, 🃏, 🇺🇸, ●, 🧇
