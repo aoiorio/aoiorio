@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - After Effects > about 2 years
 - Python > about 4 months
-- Django > about omonth
+- Django > about onmonth
 - Swift > about 6 months
 - Dart > about 3 months
 
