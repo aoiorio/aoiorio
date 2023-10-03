@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - Python > about 4 months
 - Django > about one month
 - Swift > about 6 months
-- Dart > about 3 months
+- Dart > about 4 months
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
