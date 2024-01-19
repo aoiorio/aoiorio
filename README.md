@@ -1,6 +1,6 @@
  ### Hi 🍳
 I'm Aoi Orio.
-- I'm 15 years old.
+- I'm 16 years old.
 - I'm a First grade of Vantan Techford Academy student.
 - I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
 - I like eating.
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 
 - After Effects > about 2 years
-- Python > about 4 months
-- Django > about one month
+- Python > about 6 months
+- Django > about 6 month
 - Swift > about 6 months
-- Dart > about 5 months
+- Dart > about 7 months
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
