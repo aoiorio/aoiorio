@@ -1,7 +1,7 @@
  ### Hi 🍳
 I'm Aoi Orio.
 - I'm 16 years old.
-- I'm a First grade of Vantan Techford Academy student.
+- I'm a Second grade of KADOKAWA DOWANGO HIGH SCHOOL OF INFORMATION TECHNOLOGY.
 - I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
 - I like eating.
 <!--
