@@ -45,16 +45,16 @@ Here are some ideas to get you started:
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ae,py,swift,dart,flutter" />
-</a>
-
-
-- After Effects > about 2 years
+  <img src="https://skillicons.dev/icons?i=dart,flutter,fastapi,ae,py,swift" />
+</a>  
+     
+- Dart > about 1 year
+- Flutter > about 1 year
+- FastAPI > about 1 month
 - Python > about 1 year
 - Django > about 9 months
 - Swift > about 6 months
-- Dart > about 1 year
-- Flutter > about 1 year
+- After Effects > about 2 years
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
