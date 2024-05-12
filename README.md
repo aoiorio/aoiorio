@@ -65,9 +65,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-695.3%20thousand%20lines%20of%20code-blue)
 
@@ -110,10 +108,12 @@ Sunday                   1064 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 5 mins         ██████████████████████░░░   89.45 % 
+Dart                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +129,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2024 10:25:22 UTC
+ Last Updated on 12/05/2024 18:38:48 UTC
 <!--END_SECTION:waka-->
