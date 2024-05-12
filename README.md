@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=dart,flutter,fastapi,ae,py,django,swift,docker,githubactions,aws" />
-</a>  
+</a>
 
 - Dart > about 1 year
 - Flutter > about 1 year
