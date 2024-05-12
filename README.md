@@ -61,3 +61,8 @@ Here are some ideas to get you started:
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
