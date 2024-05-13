@@ -67,17 +67,15 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-191-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-695.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 451 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,12 +110,13 @@ Sunday                   1064 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     1 hr 5 mins         ██████████████████████░░░   89.45 % 
-Dart                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Dart                     5 hrs 22 mins       ████████████████████░░░░░   81.13 % 
+YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,5 +132,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2024 05:23:56 UTC
+ Last Updated on 13/05/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
