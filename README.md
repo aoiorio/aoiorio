@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 
 - Dart > about 1 year
 - Flutter > about 1 year
-- FastAPI > about 1 month
+- FastAPI > about 2 months
 - After Effects > about 2 years
 - Python > about 1 year
 - Django > about 9 months
 - Swift > about 6 months
-- Docker > about 3 months
-- GitHub Actions > about 3 months
-- AWS > about a week
+- Docker > about 4 months
+- GitHub Actions > about 4 months
+- AWS > about a month
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
