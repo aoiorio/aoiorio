@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aoiorio&abbreviated=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
@@ -99,10 +99,10 @@ Sunday                   1087 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     5 hrs 14 mins       ███████████████████████░░   91.52 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Dart                     5 hrs 14 mins       ███████████████████████░░   91.54 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
@@ -122,5 +122,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2024 18:43:04 UTC
+ Last Updated on 02/08/2024 18:43:06 UTC
 <!--END_SECTION:waka-->
