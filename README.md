@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 - Python > about 1 year
 - Django > about 9 months
 - Swift > about 6 months
-- Docker > about 4 months
-- GitHub Actions > about 4 months
-- AWS > about a month
+- Docker > about 5 months
+- GitHub Actions > about 5 months
+- AWS > about 2 months
 
 ### My Streak Stats 🦄
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoiorio&theme=dracula)](https://git.io/streak-stats)
