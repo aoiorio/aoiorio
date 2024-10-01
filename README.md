@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - FastAPI > about 3 months
 - After Effects > about 2 years
 - Python > about 1 year and a half years
-- Django > about 9 months
+- Django > about 10 months
 - Swift > about 6 months
 - Docker > about 6 months
 - GitHub Actions > about 6 months
