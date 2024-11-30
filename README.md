@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aoiorio&abbreviated=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.4%20million%20lines%20of%20code-blue)
 
@@ -99,14 +99,14 @@ Sunday                   1119 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     13 hrs 40 mins      ███████████████████████░░   91.98 % 
-Rust                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Dart                     13 hrs 50 mins      ███████████████████████░░   92.27 % 
+Rust                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+jsonc                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      14 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 18:48:46 UTC
+ Last Updated on 30/11/2024 18:46:38 UTC
 <!--END_SECTION:waka-->
