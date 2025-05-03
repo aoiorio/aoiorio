@@ -99,12 +99,10 @@ Sunday                   1119 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     29 mins             ████████████████░░░░░░░░░   65.28 % 
-Markdown                 15 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +118,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 18:50:35 UTC
+ Last Updated on 03/05/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
