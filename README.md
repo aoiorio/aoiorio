@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aoiorio&abbreviated=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
@@ -99,10 +99,11 @@ Sunday                   1119 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ██████████████████░░░░░░░   73.93 % 
+Docker                   0 secs              ███████░░░░░░░░░░░░░░░░░░   26.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,5 +119,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 18:49:45 UTC
+ Last Updated on 05/05/2025 18:49:17 UTC
 <!--END_SECTION:waka-->
