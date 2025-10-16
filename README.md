@@ -3,7 +3,7 @@ I'm Aoi Orio.
 - I'm 17 years old.
 - I'm a Third grade of KADOKAWA DWANGO HIGH SCHOOL OF INFORMATION TECHNOLOGY student.
 - I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
-- I like eating.
+- I love to eat.
 <!--
 **aoiorio/aoiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
