@@ -1,7 +1,6 @@
  ### Hi 🍳
 I'm Aoi Orio.
-- I'm 18 years old.
-- I'm a Third grade of KADOKAWA DWANGO HIGH SCHOOL OF INFORMATION TECHNOLOGY student.
+- I'm 18 years old, becoming a college student in the United States!!
 - I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
 - I love to eat something new and delicious.
 <!--
