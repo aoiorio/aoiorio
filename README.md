@@ -1,7 +1,7 @@
  ### Hi 🍳
 I'm Aoi Orio.
-- I'm 18 years old, becoming a college student in the United States!!
-- I'm from Shiga Prefecture, but I grew up in Okinawa from 1 year old.
+- I'm 18 years old, a first-year student at a college in the US!!
+- I grew up in Okinawa from 1 year old.
 - I love to eat something new and delicious.
 <!--
 **aoiorio/aoiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
